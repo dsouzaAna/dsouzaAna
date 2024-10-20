@@ -1,4 +1,4 @@
-# 📊 Bem Vindo(a) ao meu perfil:
+# Bem vindo(a) ao meu perfil:
 ![](https://github-readme-stats.vercel.app/api?username=dsouzaAna&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsouzaAna&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
